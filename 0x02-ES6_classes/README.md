@@ -30,5 +30,6 @@ sudo apt install nodejs -y`
 
 `$ nodejs -v
 v12.11.1
+
 $ npm -v
 6.11.3`
