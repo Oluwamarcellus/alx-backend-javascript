@@ -29,7 +29,7 @@ sudo apt install nodejs -y`
 
 
 `$ nodejs -v
-v12.11.1
+v12.11.1`
 
-$ npm -v
+`$ npm -v
 6.11.3`
