@@ -129,7 +129,7 @@ const ForkTsCheckerWebpackPlugin = require('fork-ts-checker-webpack-plugin');`
 
 
 > output: {
-  "hey": 2,
-  "hello": 4
-}
+>  "hey": 2,
+>  "hello": 4
+> }
 
