@@ -128,12 +128,8 @@ const ForkTsCheckerWebpackPlugin = require('fork-ts-checker-webpack-plugin');`
 
 
 
-## Test
-
-> Hey
-
 > output: {
+  "hey": 2,
+  "hello": 4
 }
 
-> output: {
-> }
