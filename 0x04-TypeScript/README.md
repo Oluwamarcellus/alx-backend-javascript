@@ -128,7 +128,7 @@ const ForkTsCheckerWebpackPlugin = require('fork-ts-checker-webpack-plugin');`
 
 
 
-(```hey```)
+```hey```
 
 ## hey
 
