@@ -130,13 +130,10 @@ const ForkTsCheckerWebpackPlugin = require('fork-ts-checker-webpack-plugin');`
 
 ## Test
 
-^Hey^
+> Hey
 
-*hey*
-**hey**
+> output: {
+}
 
-```Sample content
-
-> BlockQuotes
-
-
+> output: {
+> }
