@@ -1,0 +1,3 @@
+npm install --save-dev webpack webpack-cli typescript ts-loader html-webpack-plugin clean-webpack-plugin fork-ts-checker-webpack-plugin
+
+
