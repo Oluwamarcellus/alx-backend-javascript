@@ -90,9 +90,9 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 `const path = require("path");
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 const { CleanWebpackPlugin } = require('clean-webpack-plugin');
-const ForkTsCheckerWebpackPlugin = require('fork-ts-checker-webpack-plugin');
+const ForkTsCheckerWebpackPlugin = require('fork-ts-checker-webpack-plugin');`
 
-module.exports = {
+`module.exports = {
   entry: "./js/main.ts",
   devtool: "inline-source-map",
   module: {
