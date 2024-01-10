@@ -124,11 +124,3 @@ const ForkTsCheckerWebpackPlugin = require('fork-ts-checker-webpack-plugin');`
     path: path.resolve(__dirname, "dist")
   }
 };`
-
-
-
-
-``` hey
-
-## hey
-
